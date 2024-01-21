@@ -22,6 +22,5 @@
 
 
 
-
 # weatherApp-Pro
 <img src="./js/weatherApp.gif"/>
